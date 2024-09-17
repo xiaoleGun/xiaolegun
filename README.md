@@ -10,7 +10,7 @@
 ### Sponsorship for servers
 Thanks for everyone :heart: :heart: :heart:
 
-<img src="https://i.niupic.com/images/2024/01/12/fb23.png" width="30%" height="auto"><img src="https://i.niupic.com/images/2024/01/12/fb22.jpg" width="30%" height="auto">
+<img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/main/Alipay.png" width="30%" height="auto"><img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/main/WeChat.png" width="30%" height="auto">
 
 [爱发电](https://afdian.net/a/xiaoleGun)
 
